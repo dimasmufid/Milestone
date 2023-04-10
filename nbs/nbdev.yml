@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "milestone"
+  site-url: "https://dimasmufid.github.io/milestone"
+  description: "Here I document every milestone I take to learning data science, from data engineering until deploy a machine learning models. Hope it can also help you with your learning journey."
+  repo-branch: main
+  repo-url: "https://github.com/dimasmufid/milestone"
